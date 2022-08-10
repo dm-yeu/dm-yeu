@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Mendt
-- 👀 I currently work for Yaskawa Europe, based in Eschborn, Germany.
-- 🌱 I’m currently learning HTML, CSS, javascript, and REACT.
-- 🏁 I want to create online product calculators for our partners and customers.
+- 👀 I currently work for Yaskawa Europe, based in Germany.
+- 🌱 This account is for my work related coding projects, such as javascript and VBA scripts.
 - 📫 You can find me on LinkedIn!
 
 <!---
